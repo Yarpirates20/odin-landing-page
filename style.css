@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 250px;
+}
+
+.header,
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
